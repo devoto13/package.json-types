@@ -1,0 +1,13 @@
+{
+  "name": "types-demo",
+  "version": "1.0.0",
+  "author": "Yaroslav Admin",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc index.ts",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "typescript": "^2.0.0"
+  }
+}
